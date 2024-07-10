@@ -16,3 +16,5 @@
 - uname - Linux command to get basic information about the OS
 - whoami - Get the active username
 - tar - Command to extract and compress files in linux
+- grep - Search for a string within an output
+- 
