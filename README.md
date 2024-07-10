@@ -31,3 +31,4 @@
 - ps - Display active processes
 - kill and killall - Kill active processes by process ID or name
 - df - Display disk filesystem information
+- mount - Mount file systems in Linux
