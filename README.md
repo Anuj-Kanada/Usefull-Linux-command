@@ -8,4 +8,4 @@
 - rm - Delete files or directories
 - touch - Create blank/empty files
 - ln - Create symbolic links (shortcuts) to other files
-- 
+- clear - Clear the terminal display
