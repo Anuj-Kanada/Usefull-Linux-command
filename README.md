@@ -22,4 +22,5 @@
 - diff - Find the difference between two files
 - cmp - Allows you to check if two files are identical
 - comm - Combines the functionality of diff and cmp
-- 
+- sort - Linux command to sort the content of a file while outputting
+
