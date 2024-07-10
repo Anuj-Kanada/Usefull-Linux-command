@@ -38,3 +38,4 @@
 - ifconfig - Display network interfaces and IP addresses
 - traceroute - Trace all the network hops to reach the destination
 - wget - Direct download files from the internet
+- iptables - Base firewall for all other firewall utilities to interface with
