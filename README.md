@@ -9,3 +9,4 @@
 - touch - Create blank/empty files
 - ln - Create symbolic links (shortcuts) to other files
 - clear - Clear the terminal display
+- cat - Display file contents on the terminal
