@@ -43,3 +43,4 @@
 - sudo - Command to escalate privileges in Linux
 - cal - View a command-line calendar
 - alias - Create custom shortcuts for your regularly used commands
+- dd - Majorly used for creating bootable USB sticks
