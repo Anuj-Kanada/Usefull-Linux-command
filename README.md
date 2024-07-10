@@ -48,3 +48,4 @@
 - whatis - Find what a command is used for
 - top - View active processes live with their system usage
 - useradd and usermod - Add a new user or change existing user data
+- passwd - Create or update passwords for existing users
