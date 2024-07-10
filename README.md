@@ -44,3 +44,4 @@
 - cal - View a command-line calendar
 - alias - Create custom shortcuts for your regularly used commands
 - dd - Majorly used for creating bootable USB sticks
+- whereis - Locate the binary, source, and manual pages for a command
