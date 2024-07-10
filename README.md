@@ -30,3 +30,4 @@
 - service - Linux command to start and stop services
 - ps - Display active processes
 - kill and killall - Kill active processes by process ID or name
+- df - Display disk filesystem information
