@@ -7,4 +7,5 @@
 - cp - Similar usage as mv but for copying files in Linux
 - rm - Delete files or directories
 - touch - Create blank/empty files
+- ln - Create symbolic links (shortcuts) to other files
 - 
