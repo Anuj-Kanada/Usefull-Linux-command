@@ -32,6 +32,7 @@
 - kill and killall - Kill active processes by process ID or name
 - df - Display disk filesystem information
 - mount - Mount file systems in Linux
+- ufw - Firewall command
 - chmod - Command to change file permissions
 - chown - Command for granting ownership of files or folders
 - ifconfig - Display network interfaces and IP addresses
