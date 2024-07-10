@@ -46,3 +46,4 @@
 - dd - Majorly used for creating bootable USB sticks
 - whereis - Locate the binary, source, and manual pages for a command
 - whatis - Find what a command is used for
+- top - View active processes live with their system usage
