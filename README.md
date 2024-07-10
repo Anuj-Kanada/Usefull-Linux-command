@@ -17,4 +17,4 @@
 - whoami - Get the active username
 - tar - Command to extract and compress files in linux
 - grep - Search for a string within an output
-- 
+- head - Return the specified number of lines from the top
