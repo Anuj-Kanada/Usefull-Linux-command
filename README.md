@@ -25,5 +25,6 @@
 - sort - Linux command to sort the content of a file while outputting
 - export - Export environment variables in Linux
 - zip - Zip files in Linux
+- unzip - Unzip files in Linux
 - 
 - 
