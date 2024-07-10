@@ -26,5 +26,5 @@
 - export - Export environment variables in Linux
 - zip - Zip files in Linux
 - unzip - Unzip files in Linux
-- 
+- ssh - Secure Shell command in Linux
 - 
