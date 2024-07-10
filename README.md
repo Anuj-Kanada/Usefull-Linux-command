@@ -28,4 +28,5 @@
 - unzip - Unzip files in Linux
 - ssh - Secure Shell command in Linux
 - service - Linux command to start and stop services
+- ps - Display active processes
 - 
