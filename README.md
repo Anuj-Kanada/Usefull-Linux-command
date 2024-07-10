@@ -24,4 +24,6 @@
 - comm - Combines the functionality of diff and cmp
 - sort - Linux command to sort the content of a file while outputting
 - export - Export environment variables in Linux
+- zip - Zip files in Linux
+- 
 - 
