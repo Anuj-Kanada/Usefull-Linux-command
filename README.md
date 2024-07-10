@@ -33,3 +33,4 @@
 - df - Display disk filesystem information
 - mount - Mount file systems in Linux
 - chmod - Command to change file permissions
+- chown - Command for granting ownership of files or folders
