@@ -15,3 +15,4 @@
 - man - Access manual pages for all Linux commands
 - uname - Linux command to get basic information about the OS
 - whoami - Get the active username
+- tar - Command to extract and compress files in linux
