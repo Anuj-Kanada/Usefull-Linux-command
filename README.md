@@ -6,3 +6,5 @@
 - mv - Move or rename files in Linux
 - cp - Similar usage as mv but for copying files in Linux
 - rm - Delete files or directories
+- touch - Create blank/empty files
+- 
