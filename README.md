@@ -13,3 +13,4 @@
 - echo - Print any text that follows the command
 - cat - Display file contents on the terminal
 - man - Access manual pages for all Linux commands
+- uname - Linux command to get basic information about the OS
