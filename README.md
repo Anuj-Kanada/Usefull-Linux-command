@@ -20,3 +20,5 @@
 - head - Return the specified number of lines from the top
 - tail - Return the specified number of lines from the bottom
 - diff - Find the difference between two files
+- cmp - Allows you to check if two files are identical
+- 
