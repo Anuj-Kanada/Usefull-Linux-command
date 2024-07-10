@@ -12,3 +12,4 @@
 - clear - Clear the terminal display
 - echo - Print any text that follows the command
 - cat - Display file contents on the terminal
+- man - Access manual pages for all Linux commands
