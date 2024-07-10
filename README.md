@@ -7,6 +7,7 @@
 - cp - Similar usage as mv but for copying files in Linux
 - rm - Delete files or directories
 - touch - Create blank/empty files
+- less - Linux command to display paged outputs in the terminal
 - ln - Create symbolic links (shortcuts) to other files
 - clear - Clear the terminal display
 - echo - Print any text that follows the command
